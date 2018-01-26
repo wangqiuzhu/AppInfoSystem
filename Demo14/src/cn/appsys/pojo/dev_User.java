@@ -13,6 +13,7 @@ public class dev_User {
 	private Date creationDate;
 	private int modifyBy;
 	private Date modifyDate;
+	private int aisibi;
 	public int getId() {
 		return id;
 	}
